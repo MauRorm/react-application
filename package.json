@@ -1,0 +1,19 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "React basic app using ES6 features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessicauk/react-application.git"
+  },
+  "author": "Jessica Apolinar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jessicauk/React-OOP/issues"
+  },
+  "homepage": "https://github.com/jessicauk/React-OOP#readme"
+}
